@@ -259,9 +259,7 @@ nav {
 }
 /* section 4 end  */
 
-#switcher {
-  display: none;
-}
+
 
 /* media */
 @media (max-width: 428px) {
@@ -293,9 +291,7 @@ nav {
     padding-bottom: 10px;
   }
 
-  #switcher {
-    display: flex;
-  }
+  
   #switcher:checked + .middle-part {
     display: flex;
   }
